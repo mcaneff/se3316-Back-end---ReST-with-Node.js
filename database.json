@@ -1,0 +1,62 @@
+{
+    "description" : " All the books and there accompaning information is going to be located here, Enjoy Browsing!",
+    "books":[
+        {
+        "name":"Little Fires Everywhere",
+        "price":"29.39",
+        "stock":5,
+        "tax":13
+        },
+        {"name":"Ranger Games: A Story of Soldiers",
+        "price":"28.80",
+        "stock":5,
+        "tax":13
+        },
+        {"name":"Family and an Inexplicable Crime",
+        "price":"22.40",
+        "stock":5,
+        "tax":13
+        },
+        {"name":"The Oddysey",
+        "price":"23.02",
+        "stock":5,
+        "tax":13
+        },
+        {"name":"Byzantium: The Surprising Life of a Medieval Empire",
+        "price":"29.96",
+        "stock":5,
+        "tax":13
+        },
+        {"name":"Practical Statistics for Data Scientists: 50 Essential Concepts",
+        "price":"7.97",
+        "stock":5,
+        "tax":13
+        },
+        {"name":"The Brothers Karamazov",
+        "price":"20.63",
+        "stock":5,
+        "tax":13
+        },
+        {"name":"The Will to Meaning: Foundations and Applications of Logotherapy",
+        "price":"25.87",
+        "stock":5,
+        "tax":13
+        },
+        {"name":"The Gulag Archipelago",
+        "price":"14.98",
+        "stock":5,
+        "tax":13
+        },
+        {"name":"History of Religious Ideas, Volume 1: From the Stone Age to the Eleusinian Mysteries",
+        "price":"57.95",
+        "stock":5,
+        "tax":13
+        },
+        {"name":"Affective Neuroscience: The Foundations of Human and Animal Emotions",
+        "price":"32.54",
+        "stock":5,
+        "tax":13
+        }
+        ]
+}
+
